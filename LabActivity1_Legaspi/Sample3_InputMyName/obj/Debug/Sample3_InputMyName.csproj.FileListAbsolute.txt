@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb

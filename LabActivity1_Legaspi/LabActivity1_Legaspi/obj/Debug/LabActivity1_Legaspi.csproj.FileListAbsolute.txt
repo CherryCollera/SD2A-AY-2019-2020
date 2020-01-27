@@ -1,0 +1,6 @@
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\LabActivity1_Legaspi\bin\Debug\LabActivity1_Legaspi.exe.config
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\LabActivity1_Legaspi\bin\Debug\LabActivity1_Legaspi.exe
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\LabActivity1_Legaspi\bin\Debug\LabActivity1_Legaspi.pdb
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\LabActivity1_Legaspi\obj\Debug\LabActivity1_Legaspi.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\LabActivity1_Legaspi\obj\Debug\LabActivity1_Legaspi.exe
+C:\Users\Kenneth\source\repos\LabActivity1_Legaspi\LabActivity1_Legaspi\obj\Debug\LabActivity1_Legaspi.pdb
