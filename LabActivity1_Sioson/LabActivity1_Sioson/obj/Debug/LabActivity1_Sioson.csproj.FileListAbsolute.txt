@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\bin\Debug\LabActivity1_Sioson.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\bin\Debug\LabActivity1_Sioson.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\bin\Debug\LabActivity1_Sioson.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\obj\Debug\LabActivity1_Sioson.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\obj\Debug\LabActivity1_Sioson.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\obj\Debug\LabActivity1_Sioson.pdb

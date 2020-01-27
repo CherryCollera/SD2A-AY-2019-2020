@@ -1,0 +1,5 @@
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\bin\Debug\LabActivity1_Sioson.exe.config
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\bin\Debug\LabActivity1_Sioson.exe
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\bin\Debug\LabActivity1_Sioson.pdb
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\obj\Debug\LabActivity1_Sioson.exe
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\LabActivity1_Sioson\obj\Debug\LabActivity1_Sioson.pdb

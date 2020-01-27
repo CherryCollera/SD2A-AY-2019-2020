@@ -1,0 +1,5 @@
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+c:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity1_Sioson\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb
