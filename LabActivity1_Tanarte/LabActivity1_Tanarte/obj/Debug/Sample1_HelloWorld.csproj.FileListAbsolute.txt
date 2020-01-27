@@ -1,0 +1,5 @@
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\bin\Debug\LabActivity1_Tanarte.exe.config
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\bin\Debug\LabActivity1_Tanarte.exe
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\bin\Debug\LabActivity1_Tanarte.pdb
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\obj\Debug\LabActivity1_Tanarte.exe
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\obj\Debug\LabActivity1_Tanarte.pdb

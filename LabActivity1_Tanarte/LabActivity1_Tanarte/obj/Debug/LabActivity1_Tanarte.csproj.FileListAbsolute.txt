@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\bin\Debug\LabActivity1_Tanarte.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\bin\Debug\LabActivity1_Tanarte.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\bin\Debug\LabActivity1_Tanarte.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\obj\Debug\LabActivity1_Tanarte.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\obj\Debug\LabActivity1_Tanarte.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Tanarte\LabActivity1_Tanarte\obj\Debug\LabActivity1_Tanarte.pdb
