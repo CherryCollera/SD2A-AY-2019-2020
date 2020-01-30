@@ -1,0 +1,5 @@
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\LabActivity1_Sibugan\bin\Debug\LabActivity1_Sibugan.exe.config
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\LabActivity1_Sibugan\bin\Debug\LabActivity1_Sibugan.exe
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\LabActivity1_Sibugan\bin\Debug\LabActivity1_Sibugan.pdb
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\LabActivity1_Sibugan\obj\Debug\LabActivity1_Sibugan.exe
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\LabActivity1_Sibugan\obj\Debug\LabActivity1_Sibugan.pdb

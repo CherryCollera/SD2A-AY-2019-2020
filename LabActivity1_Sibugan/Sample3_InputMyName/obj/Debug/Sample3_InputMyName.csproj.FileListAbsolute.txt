@@ -1,0 +1,5 @@
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+C:\Users\Plenary\documents\visual studio 2017\Projects\LabActivity1_Sibugan\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
