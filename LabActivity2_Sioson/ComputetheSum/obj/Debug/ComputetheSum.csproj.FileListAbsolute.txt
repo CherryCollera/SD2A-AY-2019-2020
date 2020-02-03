@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\ComputetheSum\bin\Debug\ComputetheSum.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\ComputetheSum\bin\Debug\ComputetheSum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\ComputetheSum\bin\Debug\ComputetheSum.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\ComputetheSum\obj\Debug\ComputetheSum.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\ComputetheSum\obj\Debug\ComputetheSum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\ComputetheSum\obj\Debug\ComputetheSum.pdb

@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\DeclaringConstants\obj\Debug\DeclaringConstants.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Sioson\DeclaringConstants\obj\Debug\DeclaringConstants.csprojResolveAssemblyReference.cache
