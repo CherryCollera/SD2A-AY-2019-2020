@@ -1,0 +1,6 @@
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\BasicOperations\bin\Debug\BasicOperations.exe.config
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\BasicOperations\bin\Debug\BasicOperations.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\BasicOperations\bin\Debug\BasicOperations.pdb
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\BasicOperations\obj\Debug\BasicOperations.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\BasicOperations\obj\Debug\BasicOperations.pdb
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\BasicOperations\obj\Debug\BasicOperations.csprojAssemblyReference.cache

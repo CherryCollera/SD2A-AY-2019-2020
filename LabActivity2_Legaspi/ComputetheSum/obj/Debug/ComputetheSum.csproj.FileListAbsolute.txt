@@ -1,0 +1,6 @@
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\LabActivity2_Legaspi\bin\Debug\LabActivity2_Legaspi.exe.config
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\LabActivity2_Legaspi\bin\Debug\LabActivity2_Legaspi.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\LabActivity2_Legaspi\bin\Debug\LabActivity2_Legaspi.pdb
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\LabActivity2_Legaspi\obj\Debug\ComputetheSum.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\LabActivity2_Legaspi\obj\Debug\LabActivity2_Legaspi.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\LabActivity2_Legaspi\obj\Debug\LabActivity2_Legaspi.pdb

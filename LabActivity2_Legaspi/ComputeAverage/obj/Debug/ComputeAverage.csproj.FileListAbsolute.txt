@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\ComputeAverage\bin\Debug\ComputeAverage.exe.config
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\ComputeAverage\bin\Debug\ComputeAverage.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\ComputeAverage\bin\Debug\ComputeAverage.pdb
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\ComputeAverage\obj\Debug\ComputeAverage.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\ComputeAverage\obj\Debug\ComputeAverage.pdb

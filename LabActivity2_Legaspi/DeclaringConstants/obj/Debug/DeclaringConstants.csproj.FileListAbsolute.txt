@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

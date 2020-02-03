@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\IfElse\bin\Debug\IfElse.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\IfElse\bin\Debug\IfElse.pdb
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\IfElse\obj\Debug\IfElse.exe
+C:\Users\Kenneth\source\repos\LabActivity2_Legaspi\IfElse\obj\Debug\IfElse.pdb
