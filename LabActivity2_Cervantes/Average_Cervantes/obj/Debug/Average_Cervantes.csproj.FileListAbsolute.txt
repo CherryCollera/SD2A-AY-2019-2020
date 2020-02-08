@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Cervantes\Average_Cervantes\bin\Debug\Average_Cervantes.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Cervantes\Average_Cervantes\bin\Debug\Average_Cervantes.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Cervantes\Average_Cervantes\bin\Debug\Average_Cervantes.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Cervantes\Average_Cervantes\obj\Debug\Average_Cervantes.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Cervantes\Average_Cervantes\obj\Debug\Average_Cervantes.pdb
