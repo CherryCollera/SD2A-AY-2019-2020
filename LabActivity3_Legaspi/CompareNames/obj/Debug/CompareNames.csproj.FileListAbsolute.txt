@@ -1,0 +1,6 @@
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNames\bin\Debug\CompareNames.exe.config
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNames\bin\Debug\CompareNames.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNames\bin\Debug\CompareNames.pdb
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNames\obj\Debug\CompareNames.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNames\obj\Debug\CompareNames.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNames\obj\Debug\CompareNames.pdb

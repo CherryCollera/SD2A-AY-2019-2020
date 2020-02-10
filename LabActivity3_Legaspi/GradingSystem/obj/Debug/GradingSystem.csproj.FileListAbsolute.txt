@@ -1,0 +1,6 @@
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\GradingSystem\obj\Debug\GradingSystem.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\GradingSystem\obj\Debug\GradingSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNumbers\bin\Debug\CompareNumbers.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNumbers\bin\Debug\CompareNumbers.pdb
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNumbers\obj\Debug\CompareNumbers.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNumbers\obj\Debug\CompareNumbers.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\CompareNumbers\obj\Debug\CompareNumbers.pdb

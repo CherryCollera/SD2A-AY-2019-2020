@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\While\bin\Debug\While.exe.config
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\While\bin\Debug\While.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\While\bin\Debug\While.pdb
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\While\obj\Debug\While.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\While\obj\Debug\While.pdb

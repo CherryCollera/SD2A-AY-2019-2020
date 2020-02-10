@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\Do-While\bin\Debug\Do-While.exe.config
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\Do-While\bin\Debug\Do-While.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\Do-While\bin\Debug\Do-While.pdb
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\Do-While\obj\Debug\Do-While.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\Do-While\obj\Debug\Do-While.pdb

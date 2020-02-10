@@ -1,0 +1,5 @@
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\For\bin\Debug\For.exe.config
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\For\bin\Debug\For.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\For\bin\Debug\For.pdb
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\For\obj\Debug\For.exe
+C:\Users\Kenneth\source\repos\LabActivity3_Legaspi\For\obj\Debug\For.pdb
