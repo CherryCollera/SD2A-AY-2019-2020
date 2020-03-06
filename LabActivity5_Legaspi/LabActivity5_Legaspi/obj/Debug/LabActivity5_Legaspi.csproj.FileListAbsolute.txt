@@ -1,0 +1,11 @@
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\bin\Debug\LabActivity5_Legaspi.exe.config
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\bin\Debug\LabActivity5_Legaspi.exe
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\bin\Debug\LabActivity5_Legaspi.pdb
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.Calculator.resources
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.Properties.Resources.resources
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.csproj.GenerateResource.cache
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.exe
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.pdb
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.Form1.resources
+C:\Users\Kenneth\source\repos\LabActivity5_Legaspi\LabActivity5_Legaspi\obj\Debug\LabActivity5_Legaspi.Form3.resources
