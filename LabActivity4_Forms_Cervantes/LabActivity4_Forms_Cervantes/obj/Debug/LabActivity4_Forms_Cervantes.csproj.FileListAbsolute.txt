@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\bin\Debug\LabActivity4_Forms_Cervantes.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\bin\Debug\LabActivity4_Forms_Cervantes.exe
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\bin\Debug\LabActivity4_Forms_Cervantes.pdb
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.Form2.resources
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.exe
+c:\users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.pdb
+C:\Users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.Form3.resources
+C:\Users\user\documents\visual studio 2013\Projects\LabActivity4_Forms_Cervantes\LabActivity4_Forms_Cervantes\obj\Debug\LabActivity4_Forms_Cervantes.Form4.resources
