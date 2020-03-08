@@ -1,0 +1,31 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Calculator.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Form2.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.pdb
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.exe.config
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.exe
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.pdb
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.exe
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.pdb
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Calculator.resources
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Form1.resources
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Properties.Resources.resources
+C:\Users\end user\Documents\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.exe.config
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.exe
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.pdb
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.exe
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\bin\Debug\Lab5_Sarmiento.pdb
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Calculator.resources
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Form1.resources
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Form3.resources
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Lab5_Sarmiento.Properties.Resources.resources
+C:\Users\end user\Documents\Visual Studio 2013\Projects\Lab5_Sarmiento\Lab5_Sarmiento\obj\Debug\Calculator.csproj.GenerateResource.Cache
