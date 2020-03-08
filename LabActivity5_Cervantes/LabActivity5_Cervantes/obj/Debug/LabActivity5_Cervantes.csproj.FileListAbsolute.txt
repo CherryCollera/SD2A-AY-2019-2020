@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\bin\Debug\LabActivity5_Cervantes.exe.config
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\bin\Debug\LabActivity5_Cervantes.exe
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\bin\Debug\LabActivity5_Cervantes.pdb
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.exe
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.pdb
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.Calcu.resources
+c:\users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.Form2.resources
+C:\Users\user\documents\visual studio 2013\Projects\LabActivity5_Cervantes\LabActivity5_Cervantes\obj\Debug\LabActivity5_Cervantes.Form3.resources
