@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\bin\Debug\LabActivity6_Tanarte.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\bin\Debug\LabActivity6_Tanarte.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\bin\Debug\LabActivity6_Tanarte.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\obj\Debug\LabActivity6_Tanarte.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\obj\Debug\LabActivity6_Tanarte.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\obj\Debug\LabActivity6_Tanarte.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\obj\Debug\LabActivity6_Tanarte.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\obj\Debug\LabActivity6_Tanarte.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Tanarte\LabActivity6_Tanarte\obj\Debug\LabActivity6_Tanarte.pdb
